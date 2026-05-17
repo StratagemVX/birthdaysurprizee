@@ -379,8 +379,6 @@ function startExperience() {
 
 Who are you? 🤔
 
-For you... 💖
-
 Just curious... 🦋
 
 How should I address you, dear? ✨`;
@@ -504,7 +502,7 @@ For you 💖
 
 You are… 🌟
 
-Karna's precious sister… 👑
+Karna's Little sister… 👑
 
 Beloved and cherished Ammu Kutti…, right?💕
 
@@ -638,7 +636,7 @@ But you disappointed me, dear... 😔
 
 But you know what, I'm still your loyal guard, after all... 💖
 
-I will still walk you to your brother's wishes... 🚶‍♀️
+I will still walk you to your brother's wishes Okay...?🚶‍♀️
 
 I'm just kidding, dear... 😊
 
@@ -683,7 +681,7 @@ And maybe... just maybe... I'm a little happy you said that... 💖✨`;
 function showBrotherScreen() {
     showScreen('screen-brother');
     
-    const text = `Hii Kutti Sister... 👋
+    const text = `Hii Kutti Maa... 👋
 
 How are you? 💕
 
@@ -720,13 +718,13 @@ Or is my Heart just telling a lie? 💭`;
 function showBirthdayTeaseScreen() {
     showScreen('screen-birthday-tease');
     
-    const text = `Oh come on, don't act so smart, dear... 😌
+    const text = `Oh come on Kutti Maa, don't act so smart, dear... 😌
 
 I can see right through you... 👀
 
 You're waiting for my wishes, aren't you? 🎁
 
-I know you too well, Ammu Kutti... 💕
+I know you too well, Kutti Maa... 💕
 
 Let me make your day special! 🌟✨`;
 
@@ -751,7 +749,7 @@ function showBirthdayScreen() {
     // Add extra fireflies for celebration
     addCelebrationFireflies();
     
-    const text = `🎂 Happiest Birthday, my beautiful sister! 🎂💐
+    const text = `🎂 Happiest Birthday, my Little sister! 🎂💐
 
 I hope your special day is filled with… ✨
 
@@ -805,7 +803,7 @@ And you know what? 🤔
 
 I want to make you even happier! ✨
 
-Tell me one thing, Ammu Kutti... 💭
+Tell me one thing, Kutti Maa... 💭
 
 Do you believe in gooing beyond the present? 🕰️
 
@@ -838,7 +836,7 @@ function showTimeTravelResponse(choice) {
     if (choice === 'yes') {
         text = `Me too... sometimes I do believe! 💭✨
 
-Then tell me, dear sister... 🤔
+Then tell me, Kutti Maa... 🤔
 
 Are you excited to step outside the present? 🕰️
 
@@ -854,7 +852,7 @@ But you know what? 🤔
 
 Let's create our own fantasy world instead! 🌸✨
 
-Are you ready for this adventure, sister? 🚀
+Are you ready for this adventure, Kutti Maa? 🚀
 
 Let's go to the Memories World... 🌌
 
@@ -932,7 +930,7 @@ I pray that every single coming day of your life... 🙏
 
 Is soft, kind, and absolutely beautiful... 🌼
 
-You know what, Ammu Kutti? 💭
+You know what, Kutti Maa? 💭
 
 You were not born with me... 🌸
 
@@ -942,11 +940,9 @@ Some bonds... 🔗
 
 Are stronger than blood... 💖
 
-And once I promise something... 🤝
+And I want to keep this bond safe and beautiful forever... 🌟
 
-No matter how hard it becomes, I stand by it. Always... 💪
-
-Thank you so much for your precious time, sister... 🙏
+Thank you so much for your precious time, Kutti Maa... 🙏
 
 Have the most beautiful day ever! 💖✨`;
 
