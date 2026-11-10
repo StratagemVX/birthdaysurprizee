@@ -32,3 +32,19 @@ An interactive multimedia tribute application engineered as a personalized celeb
 - **Creator:** Chethan Kumar B S (`StratagemVX`)
 - **GitHub:** [https://github.com/StratagemVX](https://github.com/StratagemVX)
 - **Portfolio:** [https://chethan-kumar-portfolio.vercel.app/](https://chethan-kumar-portfolio.vercel.app/)
+
+## Verification and maintenance
+
+Keep this overview aligned with the actual source and deployment configuration.
+
+### Build and test commands
+
+No root package manifest was available during this documentation pass. Determine the appropriate commands from the project's dependency manifest and CI workflow.
+
+### Contribution and security notes
+
+- Keep features, architecture, screenshots, and dependency details accurate.
+- Never commit real credentials, private keys, production data, or local environment files; use placeholder-only examples and deployment-managed secrets.
+- Include steps to reproduce issues and expected versus actual behavior.
+- Name external services and environment variables without publishing secret values.
+- Run relevant build, lint, and test checks before merging.
