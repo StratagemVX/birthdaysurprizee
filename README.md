@@ -1,37 +1,34 @@
 # Amulya's Birthday Surprise — Interactive Multimedia Memory Tree
 
-> Interactive web-based celebration memory tree with chronological photo galleries, background music synthesis, video tributes, and responsive canvas animations.
+> An interactive web-based multimedia celebration experience featuring a dynamic canvas memory tree, soundtrack audio integration, video playback, and chronological photo timelines.
+
+[![HTML5](https://img.shields.io/badge/HTML5-Semantic-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
 
-## 1. Project Title
-**Amulya's Birthday Surprise** (`birthdaysurprizee`) — Interactive Multimedia Memory Tree Celebration.
+## Executive Overview
 
-## 2. Project Overview
-An interactive multimedia tribute application designed as a personalized celebration experience for Amulya. It features an interactive memory tree interface, typewriter animated greetings, integrated background audio soundtracks, video montage playback, and four categorized photo timeline galleries (`today`, `degree`, `people`, `puc`).
+An interactive multimedia tribute application engineered as a personalized celebration experience for Amulya. The platform features an interactive memory tree interface, typewriter animated greetings, embedded background audio, video montage playback, and four categorized photo timeline albums (`today`, `degree`, `people`, `puc`).
 
-## 3. Key Features
-- **Interactive Memory Tree (`memoryTree.html` / `memoryTree.js`):** Branching visual memory nodes triggering pop-up reminiscences.
-- **Categorized Photo Timelines:**
+---
+
+## Core Capabilities & Features
+
+- **Interactive Memory Tree (`memoryTree.html` / `memoryTree.js`):** Visual interactive memory nodes triggering pop-up reminiscences.
+- **Categorized Photo Albums:**
   - `photos/today/`: Recent milestones and celebration portraits.
   - `photos/degree/`: Engineering college memories and team milestones.
-  - `photos/people/`: Friends, family, and collaborative group moments.
+  - `photos/people/`: Friends, family, and collaborative moments.
   - `photos/puc/`: Pre-university college retrospective timeline.
-- **Embedded Media:** Background soundtrack (`assets/Audio File.mp3`) and video tribute playback.
-- **Typewriter Text Effects:** Dynamic headline animations (`js/typewriter.js`).
+- **Embedded Media:** Synchronized background soundtrack (`assets/Audio File.mp3`) and video tribute playback.
+- **Zero-Dependency Architecture:** Pure HTML5, CSS3, and vanilla JavaScript; loads instantly offline in any web browser.
 
-## 4. Technology Stack
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Audio / Video:** HTML5 `<audio>` and `<video>` APIs
-- **Design:** Custom responsive CSS grid and flexbox stylesheets
+---
 
-## 5. Installation Instructions
-```bash
-git clone https://github.com/StratagemVX/birthdaysurprizee.git
-cd birthdaysurprizee
-# Open index.html in any modern browser
-```
+## Contributor Attribution & Profile
 
-## 6. Author & Project Information
 - **Creator:** Chethan Kumar B S (`StratagemVX`)
-- **Category:** Personal Creative Software & Multimedia Web Applications
+- **GitHub:** [https://github.com/StratagemVX](https://github.com/StratagemVX)
+- **Portfolio:** [https://chethan-kumar-portfolio.vercel.app/](https://chethan-kumar-portfolio.vercel.app/)
