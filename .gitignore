@@ -1,2 +1,8 @@
 # Local Netlify folder
 .netlify
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+Thumbs.db
